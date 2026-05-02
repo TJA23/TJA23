@@ -27,11 +27,11 @@ Results-driven engineer with hands-on experience in **machine learning, deep lea
 
 ## 🧠 Featured Projects
 
-- 💳 **Real-Time Financial Fraud Detection Pipeline** — Scalable ETL on AWS S3/Athena + Polars + Airflow with rule-based fraud logic.
-- 📰 **LLM-Powered News Intelligence Platform (RAG)** — Transformers + FAISS + OpenAI for entity recognition, sentiment, and contextual QA.
-- 🎮 **iGaming Analytics & User Behavior System** — Event-driven analytics computing ARPU, retention, and game performance at scale.
-- 🚦 **Real-Time Traffic Monitoring** ([repo](https://github.com/TJA23/Vehicle-count)) — YOLOv8 + OpenCV + FastAPI for school-zone safety monitoring.
-- 🏥 **Healthcare QA System (RAG)** — BERT + GPT + FAISS + FastAPI for context-aware medical question answering.
+- 💳 **[Real-Time Financial Fraud Detection Pipeline](https://github.com/TJA23/fraud-detection-pipeline)** — Scalable ETL on AWS S3/Athena + Polars + Airflow with rule-based fraud logic.
+- 📰 **[LLM-Powered News Intelligence Platform (RAG)](https://github.com/TJA23/news-intelligence-rag)** — Transformers + FAISS + OpenAI for entity recognition, sentiment, and contextual QA.
+- 🎮 **[iGaming Analytics & User Behavior System](https://github.com/TJA23/igaming-analytics-system)** — Event-driven analytics computing ARPU, retention, and game performance at scale.
+- 🚦 **[Real-Time Traffic Monitoring](https://github.com/TJA23/Vehicle-count)** — YOLOv8 + OpenCV + FastAPI for school-zone safety monitoring.
+- 🏥 **[Healthcare QA System (RAG)](https://github.com/TJA23/healthcare-qa-rag)** — BERT + GPT + FAISS + FastAPI for context-aware medical question answering.
 - 🐟 **[Multiclass Fish Image Classification](https://github.com/TJA23/Multiclass-Fish-Image-Classification)** — Deep learning for multi-species image classification.
 - 🧠 **[Brain Tumour Classification](https://github.com/TJA23/-Brain-tumour-Classification)** — CNN-based MRI medical imaging classifier.
 - 🛒 **[Customer Segmentation & Recommendation](https://github.com/TJA23/Customer-Segmentation-Product-Recommendation)** — Unsupervised learning + recommender for retail.
