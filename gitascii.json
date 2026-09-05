@@ -12,8 +12,10 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
-      "locked": false,
+      "config": {
+        "showTitle": true
+      },
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1788630552971_0"
@@ -41945,7 +41947,7 @@
           ]
         ]
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1788630552971_1"
@@ -41954,15 +41956,28 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 296,
-        "y": 114
+        "x": 272,
+        "y": 128
       },
       "size": {
-        "width": 504,
+        "width": 520,
         "height": 280
       },
-      "config": {},
-      "locked": false,
+      "config": {
+        "headerColor": "#00ff88",
+        "labelColor": "#55ffff",
+        "dotColor": "#2e4c38",
+        "valueColor": "#e6edf3",
+        "statsValColor": "#00ff88",
+        "dividerColor": "#1a2e22",
+        "showCompany": true,
+        "showLanguages": false,
+        "showEmail": true,
+        "showGithub": false,
+        "showStars": false,
+        "showFollowers": false
+      },
+      "locked": true,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1788630552971_2"
@@ -41972,14 +41987,19 @@
       "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 402
+        "y": 744
       },
       "size": {
-        "width": 536,
+        "width": 512,
         "height": 160
       },
-      "config": {},
-      "locked": false,
+      "config": {
+        "showTitle": true,
+        "hideLangsArr": [],
+        "hideLangs": "",
+        "showPercentage": false
+      },
+      "locked": true,
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1788630552971_3"
@@ -41988,29 +42008,29 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 544,
-        "y": 402
+        "x": 512,
+        "y": 744
       },
       "size": {
-        "width": 240,
+        "width": 280,
         "height": 160
       },
       "config": {
         "selectedTechs": [
-          "js",
-          "ts",
-          "html",
           "py",
           "mysql",
           "mongodb",
           "postgres",
-          "docker"
+          "docker",
+          "r",
+          "git",
+          "aws"
         ],
         "theme": "dark",
         "perLine": 4,
         "showTitle": false
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1788630552971_5"
@@ -42021,28 +42041,32 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 570
+        "y": 392
       },
       "size": {
         "width": 800,
-        "height": 120
+        "height": 112
       },
       "config": {
-        "customText": "GitAscii",
+        "customText": "Data-Ai ",
         "asciiFont": "block",
         "charSpacing": 1,
         "fontSize": 12,
         "charset": "default",
         "customCharset": "",
         "asciiLines": [
-          " ▄████▄  ████████ ████████  ▄████▄   ▄█████   ▄████▄  ████████ ████████",
-          "██    ▀▀    ██       ██    ██    ██ ██       ██    ▀▀    ██       ██   ",
-          "██  ████    ██       ██    ████████  ▀████▄  ██          ██       ██   ",
-          "██    ██    ██       ██    ██    ██       ██ ██    ▄▄    ██       ██   ",
-          " ▀████▀  ████████    ██    ██    ██ ██████▀   ▀████▀  ████████ ████████"
-        ]
+          "██████▄   ▄████▄  ████████  ▄████▄          ▄████▄  ████████     ",
+          "██    ██ ██    ██    ██    ██    ██        ██    ██    ██        ",
+          "██    ██ ████████    ██    ████████ ██████ ████████    ██        ",
+          "██    ██ ██    ██    ██    ██    ██        ██    ██    ██        ",
+          "██████▀  ██    ██    ██    ██    ██        ██    ██ ████████     "
+        ],
+        "cols": 150,
+        "detail": "ultra",
+        "animationType": "zoom-in",
+        "animationPreviewKey": 8
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 7
     },
@@ -42052,17 +42076,30 @@
       "name": "Controlplane-system-loop Widget",
       "position": {
         "x": 0,
-        "y": 632
+        "y": 446
       },
       "size": {
-        "width": 800,
+        "width": 792,
         "height": 360
       },
       "config": {
         "layoutType": "hero",
-        "accentColor": "#00A7D1"
+        "accentColor": "#00ff88",
+        "selectedRepos": [
+          "Zomato_AI-Intelligence-",
+          "REAL-TIME-STOCK-PIPELINE",
+          "news-intelligence-rag",
+          "healthcare-qa-rag"
+        ],
+        "secondaryColor": "#55ffff",
+        "customTitle": "TEEJA",
+        "customBio": "BUIILDING data  PIPELINES with ai",
+        "showGrid": true,
+        "maxRepos": 4,
+        "animationType": "glitch",
+        "animationPreviewKey": 16
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 9
     }
