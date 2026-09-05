@@ -41961,7 +41961,7 @@
       },
       "size": {
         "width": 520,
-        "height": 280
+        "height": 240
       },
       "config": {
         "headerColor": "#00ff88",
@@ -41977,7 +41977,7 @@
         "showStars": false,
         "showFollowers": false
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1788630552971_2"
@@ -42034,6 +42034,39 @@
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1788630552971_5"
+    },
+    {
+      "instanceId": "widget_1788639765199",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 360
+      },
+      "size": {
+        "width": 800,
+        "height": 88
+      },
+      "config": {
+        "customText": "DAta - ai",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "██████▄   ▄████▄  ████████  ▄████▄                    ▄████▄  ████████",
+          "██    ██ ██    ██    ██    ██    ██                  ██    ██    ██   ",
+          "██    ██ ████████    ██    ████████      ██████      ████████    ██   ",
+          "██    ██ ██    ██    ██    ██    ██                  ██    ██    ██   ",
+          "██████▀  ██    ██    ██    ██    ██                  ██    ██ ████████"
+        ],
+        "animationType": "zoom-in",
+        "animationPreviewKey": 1
+      },
+      "locked": true,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
