@@ -1,4 +1,5 @@
 {
+  "username": "TJA23",
   "widgets": [
     {
       "widgetId": "header",
@@ -42033,74 +42034,6 @@
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1788630552971_5"
-    },
-    {
-      "instanceId": "widget_1788630953760",
-      "widgetId": "ascii-text",
-      "name": "Ascii-text Widget",
-      "position": {
-        "x": 0,
-        "y": 392
-      },
-      "size": {
-        "width": 800,
-        "height": 112
-      },
-      "config": {
-        "customText": "Data-Ai ",
-        "asciiFont": "block",
-        "charSpacing": 1,
-        "fontSize": 12,
-        "charset": "default",
-        "customCharset": "",
-        "asciiLines": [
-          "██████▄   ▄████▄  ████████  ▄████▄          ▄████▄  ████████     ",
-          "██    ██ ██    ██    ██    ██    ██        ██    ██    ██        ",
-          "██    ██ ████████    ██    ████████ ██████ ████████    ██        ",
-          "██    ██ ██    ██    ██    ██    ██        ██    ██    ██        ",
-          "██████▀  ██    ██    ██    ██    ██        ██    ██ ████████     "
-        ],
-        "cols": 150,
-        "detail": "ultra",
-        "animationType": "zoom-in",
-        "animationPreviewKey": 8
-      },
-      "locked": true,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
-      "instanceId": "widget_1788631047398",
-      "widgetId": "controlplane-system-loop",
-      "name": "Controlplane-system-loop Widget",
-      "position": {
-        "x": 0,
-        "y": 446
-      },
-      "size": {
-        "width": 792,
-        "height": 360
-      },
-      "config": {
-        "layoutType": "hero",
-        "accentColor": "#00ff88",
-        "selectedRepos": [
-          "Zomato_AI-Intelligence-",
-          "REAL-TIME-STOCK-PIPELINE",
-          "news-intelligence-rag",
-          "healthcare-qa-rag"
-        ],
-        "secondaryColor": "#55ffff",
-        "customTitle": "TEEJA",
-        "customBio": "BUIILDING data  PIPELINES with ai",
-        "showGrid": true,
-        "maxRepos": 4,
-        "animationType": "glitch",
-        "animationPreviewKey": 16
-      },
-      "locked": true,
-      "visible": true,
-      "zIndex": 9
     }
   ],
   "globalStyles": {
@@ -42114,5 +42047,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "native"
+  "templateId": "native",
+  "profileSlug": "default"
 }
