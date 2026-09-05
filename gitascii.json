@@ -25,11 +25,11 @@
       "name": "Ascii-art Widget",
       "position": {
         "x": 0,
-        "y": 106
+        "y": 80
       },
       "size": {
-        "width": 280,
-        "height": 280
+        "width": 296,
+        "height": 296
       },
       "config": {
         "detail": "custom",
@@ -45491,7 +45491,8 @@
             "#402f1c",
             "#483521"
           ]
-        ]
+        ],
+        "accentColor": "#c5ff4a"
       },
       "locked": false,
       "visible": true,
@@ -45499,99 +45500,16 @@
       "instanceId": "widget_1788630552971_1"
     },
     {
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
-      "position": {
-        "x": 272,
-        "y": 126
-      },
-      "size": {
-        "width": 520,
-        "height": 240
-      },
-      "config": {
-        "headerColor": "#00ff88",
-        "labelColor": "#55ffff",
-        "dotColor": "#2e4c38",
-        "valueColor": "#e6edf3",
-        "statsValColor": "#00ff88",
-        "dividerColor": "#1a2e22",
-        "showCompany": true,
-        "showLanguages": false,
-        "showEmail": true,
-        "showGithub": false,
-        "showStars": false,
-        "showFollowers": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1788630552971_2"
-    },
-    {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 0,
-        "y": 448
-      },
-      "size": {
-        "width": 512,
-        "height": 160
-      },
-      "config": {
-        "showTitle": true,
-        "hideLangsArr": [],
-        "hideLangs": "",
-        "showPercentage": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1788630552971_3"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 512,
-        "y": 448
-      },
-      "size": {
-        "width": 280,
-        "height": 158
-      },
-      "config": {
-        "selectedTechs": [
-          "py",
-          "mysql",
-          "mongodb",
-          "postgres",
-          "docker",
-          "r",
-          "git",
-          "aws"
-        ],
-        "theme": "dark",
-        "perLine": 4,
-        "showTitle": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1788630552971_5"
-    },
-    {
       "instanceId": "widget_1788639765199",
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 0,
-        "y": 360
+        "x": 304,
+        "y": 138
       },
       "size": {
-        "width": 800,
-        "height": 88
+        "width": 440,
+        "height": 208
       },
       "config": {
         "customText": "DAta - ai",
@@ -45608,51 +45526,12 @@
           "██████▀  ██    ██    ██    ██    ██                  ██    ██ ████████"
         ],
         "animationType": "zoom-in",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "customTitle": ""
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1788640540019",
-      "widgetId": "codeweb-social-badge",
-      "name": "Codeweb-social-badge Widget",
-      "position": {
-        "x": 0,
-        "y": 920
-      },
-      "size": {
-        "width": 800,
-        "height": 44
-      },
-      "config": {
-        "platforms": [
-          "github",
-          "linkedin",
-          "portfolio"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1788640774160",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 632
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
     }
   ],
   "globalStyles": {
