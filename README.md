@@ -20,8 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teeja-senthilkumar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teejasenthilkumar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://datascienceportfol.io/teeja](https://teeja-hnvjkr6p2-teejasenthilkumar-4490.vercel.app/))
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://teeja-hnvjkr6p2-teejasenthilkumar-4490.vercel.app/)
 ---
 
 ## 🛠️ Tech Stack
