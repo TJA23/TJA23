@@ -15,7 +15,7 @@
       "config": {
         "showTitle": true
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1788630552971_0"
