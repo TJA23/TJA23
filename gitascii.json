@@ -45529,7 +45529,7 @@
         "animationPreviewKey": 1,
         "customTitle": ""
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6
     }
